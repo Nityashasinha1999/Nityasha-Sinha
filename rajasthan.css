@@ -1,0 +1,26 @@
+body{
+	background: url("rajasthan") no-repeat fixed center;
+	background-size: cover;
+}
+h1{
+	text-align: center;
+	font-size: 60px;
+	box-shadow: 4px 4px 5px #000000;
+}
+h3{
+	font-size: 35px;
+	font-family: sans-serif;
+	color: #FFB671;
+}
+h4{
+	font-size: 25px;
+	color: #FFB671;
+}
+img{
+	width: 450px;
+	height: 300px;
+	box-shadow: 7px 7px 9px #000000;
+}
+img:hover{
+	transform: scale(1.1);
+}
